@@ -1,0 +1,2 @@
+.liveText{-webkit-animation:blink 1s linear infinite;animation:blink 1s linear infinite}@-webkit-keyframes blink{50%{opacity:0}}@keyframes blink{50%{opacity:0}}.singleCard{background:#fcfcfc;border-radius:10px;padding:20px;text-align:center;width:300px}.singleCard:hover{box-shadow:5px 5px 12px 0 rgba(0,0,0,.3)}.mainText{font-size:40px}
+/*# sourceMappingURL=main.0c23c547.css.map*/

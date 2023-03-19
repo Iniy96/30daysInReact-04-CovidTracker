@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/30daysInReact-04-CovidTracker/static/css/main.0c23c547.css",
+    "main.js": "/30daysInReact-04-CovidTracker/static/js/main.e8e04348.js",
+    "index.html": "/30daysInReact-04-CovidTracker/index.html",
+    "main.0c23c547.css.map": "/30daysInReact-04-CovidTracker/static/css/main.0c23c547.css.map",
+    "main.e8e04348.js.map": "/30daysInReact-04-CovidTracker/static/js/main.e8e04348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c23c547.css",
+    "static/js/main.e8e04348.js"
+  ]
+}
